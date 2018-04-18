@@ -5,7 +5,7 @@ My arduino sandbox space to play with:
 - A Futaba M16MY02A VFD Module (14-segments 16 characters)
 - A Noritake GU96x8M-K609C1 VFD Module (96x8 graphic dot matrix)
 
-##clear
+## clear
 Clean-up project to reset the Arduino content.
 
 ## display_basic
